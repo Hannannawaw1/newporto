@@ -48,6 +48,18 @@ body {
   text-align: center;
   font-size: 14px;
 }
+.cyber{
+  padding: 10px;
+  width: 400px ;
+  margin-top: -10px;
+}
+
+.network{
+  padding: 10px;
+  width: 400px ;
+  margin-top: -10px;
+}
+
 .card:hover{
   background-color: seagreen;
 }
