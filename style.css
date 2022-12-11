@@ -100,3 +100,9 @@ body {
   margin-top: 10px;
   padding: 10px;
 }
+
+@media all and (max-width: 670px) {
+  .imageAboutPage{
+    width: 30%;
+  }
+}
