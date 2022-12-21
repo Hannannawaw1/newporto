@@ -27,3 +27,12 @@ const textRun = $(".job").typeIt({
   loop: true,
 });
 
+
+let bukuOpen = () => {
+  window.open("https://bookshelfapp19.netlify.app/");
+};
+
+let movieOpen = () => {
+  window.open("https://sudomovies.netlify.app/")
+}
+
