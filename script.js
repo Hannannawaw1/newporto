@@ -27,12 +27,22 @@ const textRun = $(".job").typeIt({
   loop: true,
 });
 
-
-let bukuOpen = () => {
+const bukuOpen = () => {
   window.open("https://bookshelfapp19.netlify.app/");
 };
 
-let movieOpen = () => {
-  window.open("https://sudomovies.netlify.app/")
-}
+const movieOpen = () => {
+  window.open("https://sudomovies.netlify.app/");
+};
 
+const githubOpen = () => {
+  window.open("https://github.com/Hannannawaw1");
+};
+
+const mailOpen = () => {
+  window.open("mailto:hnawawi939@gmail.com");
+};
+
+const linkedinOpen = () => {
+  window.open("https://www.linkedin.com/in/hannan-nawawi/");
+};
