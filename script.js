@@ -20,7 +20,7 @@ navLinks.forEach((l) => {
 });
 
 const textRun = $(".job").typeIt({
-  strings: ["Junior Frontend Web", "Junior Network Engineer", "IT Lovers"],
+  strings: ["Junior Frontend Web", "Junior Network Engineer", "IT Enthusiasm"],
   speed: 170,
   breakLines: false,
   autoStart: false,
