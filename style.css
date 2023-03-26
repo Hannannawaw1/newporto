@@ -18,7 +18,7 @@ body {
   background: url("./assets/bg-banner.jpeg");
   background-size: cover;
   position: relative;
-  /* filter: blur(6px); */
+  filter: blur(3px);
   background-repeat: no-repeat;
   background-position: center bottom;
 }
